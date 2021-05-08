@@ -100,7 +100,7 @@
     "tslint-config-prettier": "^1.17.0",
     "tslint-eslint-rules": "^5.4.0",
     "typedi": "^0.8.0",
-    "typeorm": "^0.2.9",
+    "typeorm": "^0.2.25",
     "typeorm-typedi-extensions": "^0.2.2",
     "typescript": "^3.2.2",
     "ws": "^6.1.2"
