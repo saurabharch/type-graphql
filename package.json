@@ -30,7 +30,7 @@
     "glob": "^7.1.6",
     "graphql-query-complexity": "^0.7.2",
     "graphql-subscriptions": "^1.2.0",
-    "semver": "^7.3.4",
+    "semver": "^7.5.2",
     "tslib": "^2.1.0"
   },
   "devDependencies": {
